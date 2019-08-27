@@ -2,6 +2,7 @@
 
 <h3>Graph</h3>
 <p>Chart Global Combined Land-Surface Air and Sea-Surface Water Temperature using Chart.js</p>
+![Chartjs](https://alanv73.github.io/img/chartjs.png)
 
 <h3>ISS</h3>
 <p>Track and map the ISS</p>
@@ -9,3 +10,4 @@
   <li>Get real time location using https://wheretheiss.at/</li>
   <li>Show location on map using Leaflet/OpenStreetMaps</li>
 </ul>
+![ISS](https://alanv73.github.io/img/iss.png)
